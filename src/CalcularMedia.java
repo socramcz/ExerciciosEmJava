@@ -1,7 +1,7 @@
 // IMPORT NECESSARIO PARA O PROGRAMA RECEBER INPUT'S
 import java.util.Scanner;
 
-public class TestePrograma2 {
+public class CalcularMedia {
 
     public static void main(String[] args) {
         // LINHA DE CODIGO PARA CHAMAR O IMPORT
